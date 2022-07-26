@@ -16,6 +16,6 @@
 * SetNick
 * Slowmode
 * Svr [Server Region change]
-* VoiceMove [Move a peerson from one vc to another]
+* VoiceMove [Move a person from one vc to another]
 * Warn
 * Whois
